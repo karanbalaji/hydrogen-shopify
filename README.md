@@ -1,2 +1,2 @@
-# hydrogen-shopify
+# Exploring hydrogen shopify :) 
  
